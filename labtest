@@ -1,0 +1,22 @@
+import numpy as np
+flight_schedule=np.array([[1,"a","x",7,44],[2,"b","y",6,50],[3,"c","z",9,70]])
+passenger_records=np.array([[1,"rish",2,10],[2,"meow",3,11],[3,"lala",1,12]])
+print(passenger_records)
+
+def flight_res(passenger_records):
+   
+    for i in range(len(passenger_records):
+     return passenger_records[i,-1:-2]
+
+
+
+def update(len(flight_schedule):
+    for i in range (len(flight_schedule):
+       
+            return flight_schedule[i,4]=10
+def maxres(flight_schedule):                   
+       for i in range(len(flight_schedule))
+                   return flight_schedule[i,4].max()
+def minres(flight_schedule):                   
+       for i in range(len(flight_schedule))
+                   return flight_schedule[i,4].min()
